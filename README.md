@@ -23,3 +23,6 @@ Check in software with support for barcode scanners, managed through a specified
 Student Number | OEN | Last_Name | First_Name | Grade Level | Option 1 | Option 2 | Option 3 | Option 4 | Checked-In | Time
 - Options 1-4 customizable based on event, displays underneath ticket-holder (ie: Food options, merchandise sales)
 - Barcode Scanner (Not mandatory, but needed for efficiency)
+
+# DEMO
+- An exectuable demo can be provided upon request
